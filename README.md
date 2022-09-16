@@ -1,2 +1,2 @@
 Fatima Zohra Siddiqui
-/var/folders/pz/ytyfglwx05lfk5_qnst2t5yr0000gn/T/TemporaryItems/NSIRD_screencaptureui_0oh8Ua/Screen Shot 2022-09-16 at 12.37.14 PM.png
+<img width="624" alt="Screen Shot 2022-09-16 at 12 40 21 PM" src="https://user-images.githubusercontent.com/62577020/190688066-563324a5-2d8c-4f31-adf8-faa8c50fa394.png">
