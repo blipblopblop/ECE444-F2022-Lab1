@@ -24,6 +24,7 @@ teammate's repo: https://github.com/mehakkalra14/ECE444-F2022-Lab1
 
 Acitivity 5:
 
+![Screen Shot 2022-09-17 at 2 34 26 PM](https://user-images.githubusercontent.com/62577020/190871682-235523b2-06f0-416f-9049-a058abbb7833.png)
 
 Activity 6:
 
