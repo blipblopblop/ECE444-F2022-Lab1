@@ -17,3 +17,7 @@ https://github.com/blipblopblop/ECE444-F2022-EP
 
 Acitivity 5:
 https://github.com/blipblopblop/ECE444-F2022-EP/tree/96b1cd8a4890ca9be520657a3fd71d766de4bf2d
+
+Activity 6:
+
+<img width="1480" alt="Screen Shot 2022-09-17 at 10 27 21 AM" src="https://user-images.githubusercontent.com/62577020/190862045-904779e9-45e3-43d2-9916-271fd7b67d68.png">
