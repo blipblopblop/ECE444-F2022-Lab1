@@ -18,6 +18,9 @@ Activity 3:
 
 Acitivity 4:
 
+teammate's repo: https://github.com/mehakkalra14/ECE444-F2022-Lab1
+![Screen Shot 2022-09-17 at 1 56 59 PM](https://user-images.githubusercontent.com/62577020/190870237-ea93998f-a1d6-45bb-b044-cd15bc1c19d4.png)
+![Screen Shot 2022-09-17 at 1 57 13 PM](https://user-images.githubusercontent.com/62577020/190870242-d354e68e-b431-40f6-886c-30ebe673fe0a.png)
 
 Acitivity 5:
 
