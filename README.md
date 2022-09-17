@@ -9,11 +9,12 @@ Activity 2:
 <img width="742" alt="Activity2" src="https://user-images.githubusercontent.com/62577020/190834245-f6398404-82af-4691-8619-c22c4f4606e3.png">
 
 Activity 3:
-<img width="956" alt="Screen Shot 2022-09-17 at 1 31 16 PM" src="https://user-images.githubusercontent.com/62577020/190869436-77779b39-0e3a-4404-9ee7-c982c1b42642.png">
+
+<img width="956" alt="Screen Shot 2022-09-17 at 1 31 16 PM" src="https://user-images.githubusercontent.com/62577020/190869445-46a98cf2-28b7-404b-b958-b17b9d948ba9.png">
 
 <img width="936" alt="Screen Shot 2022-09-17 at 1 31 51 PM" src="https://user-images.githubusercontent.com/62577020/190869438-0c4abbf3-f674-45b5-9d7c-fcd34b08e2b7.png">
 
-<img width="956" alt="Screen Shot 2022-09-17 at 1 31 16 PM" src="https://user-images.githubusercontent.com/62577020/190869445-46a98cf2-28b7-404b-b958-b17b9d948ba9.png">
+<img width="933" alt="Screen Shot 2022-09-17 at 1 31 59 PM" src="https://user-images.githubusercontent.com/62577020/190869474-2b64e3de-8f19-4fb3-96c4-56847f9bdaac.png">
 
 Acitivity 4:
 
